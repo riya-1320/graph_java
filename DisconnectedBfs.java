@@ -1,3 +1,4 @@
+//Disconnected Bfs graph
 import java.util.*;
 public class DisconnectedBfs {
     static class Edge{
