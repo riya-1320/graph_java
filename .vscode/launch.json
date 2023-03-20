@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Allpath",
+            "request": "launch",
+            "mainClass": "Allpath",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bfs",
+            "request": "launch",
+            "mainClass": "Bfs",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cannibals_Missionaries",
+            "request": "launch",
+            "mainClass": "Cannibals_Missionaries",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cycledirected",
+            "request": "launch",
+            "mainClass": "Cycledirected",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Cycleundircted",
+            "request": "launch",
+            "mainClass": "Cycleundircted",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dfs",
+            "request": "launch",
+            "mainClass": "Dfs",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dijkstra",
+            "request": "launch",
+            "mainClass": "Dijkstra",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisconnectedBfs",
+            "request": "launch",
+            "mainClass": "DisconnectedBfs",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Graph",
+            "request": "launch",
+            "mainClass": "Graph",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Kosaraju",
+            "request": "launch",
+            "mainClass": "Kosaraju",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch MissionariesAndCannibals",
+            "request": "launch",
+            "mainClass": "MissionariesAndCannibals",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mst",
+            "request": "launch",
+            "mainClass": "Mst",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Topologicalsort",
+            "request": "launch",
+            "mainClass": "Topologicalsort",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Waterjug",
+            "request": "launch",
+            "mainClass": "Waterjug",
+            "projectName": "graph_bd748359"
+        },
+        {
+            "type": "java",
+            "name": "Launch Yudfs",
+            "request": "launch",
+            "mainClass": "Yudfs",
+            "projectName": "graph_bd748359"
+        }
+    ]
+}
